@@ -14350,5 +14350,18 @@
     "start_date_local": "2026-03-26T17:46:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 21278.3,
+    "elevation_gain": 49.0,
+    "id": "17897984204",
+    "moving_time": 5769.0,
+    "name": "Berlin Yar\u0131 Maratonu 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-29T10:12:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
