@@ -14506,5 +14506,18 @@
     "start_date_local": "2026-04-15T18:00:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 22168.7,
+    "elevation_gain": 35.4,
+    "id": "18133293868",
+    "moving_time": 3003.0,
+    "name": "TrainingPeaks Virtual - Workout: Recovery Ride (60 mins)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-16T17:46:07Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
