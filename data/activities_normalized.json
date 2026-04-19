@@ -14532,5 +14532,31 @@
     "start_date_local": "2026-04-18T09:58:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 1002.0,
+    "elevation_gain": 1.0,
+    "id": "18167424548",
+    "moving_time": 375.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T08:54:55Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 21256.9,
+    "elevation_gain": 58.0,
+    "id": "18167430782",
+    "moving_time": 6087.0,
+    "name": "\u0130stanbul Yar\u0131 Maratonu 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T09:15:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
