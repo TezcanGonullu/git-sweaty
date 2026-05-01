@@ -14701,5 +14701,18 @@
     "start_date_local": "2026-04-30T07:14:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 34744.8,
+    "elevation_gain": 688.0,
+    "id": "18330789787",
+    "moving_time": 5509.0,
+    "name": "TrainingPeaks Virtual - Event: Kas Patara",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-01T12:28:07Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
