@@ -8350,6 +8350,13 @@
       "subtype": "TrailRun",
       "type": "TrailRun",
       "year": 2026
+    },
+    {
+      "date": "2026-07-20",
+      "hour": 13,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18196,6 +18203,15 @@
           "distance": 602.3,
           "elevation_gain": 13.0,
           "moving_time": 1025.0
+        },
+        "2026-07-20": {
+          "activity_ids": [
+            "19386841688"
+          ],
+          "count": 1,
+          "distance": 351.5,
+          "elevation_gain": 0.0,
+          "moving_time": 662.0
         }
       },
       "TrailRun": {
@@ -18777,7 +18793,7 @@
       }
     }
   },
-  "generated_at": "2026-07-19T15:44:09.156566+00:00",
+  "generated_at": "2026-07-20T16:19:20.201090+00:00",
   "other_bucket": "OtherSports",
   "repo": "TezcanGonullu/git-sweaty",
   "source": "strava",
