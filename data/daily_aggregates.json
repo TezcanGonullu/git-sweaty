@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T16:13:08.306496+00:00",
+  "generated_at": "2026-07-23T16:18:17.930032+00:00",
   "years": {
     "2020": {
       "Run": {
@@ -9833,6 +9833,15 @@
           "distance": 9506.5,
           "elevation_gain": 169.0,
           "moving_time": 3523.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19427061455"
+          ],
+          "count": 1,
+          "distance": 7504.4,
+          "elevation_gain": 79.0,
+          "moving_time": 3097.0
         }
       },
       "Swim": {
