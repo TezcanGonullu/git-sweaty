@@ -8469,6 +8469,27 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-08-08",
+      "hour": 20,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 7,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 14,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18542,6 +18563,15 @@
           "distance": 14104.9,
           "elevation_gain": 361.0,
           "moving_time": 5651.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19663033963"
+          ],
+          "count": 1,
+          "distance": 10107.2,
+          "elevation_gain": 245.0,
+          "moving_time": 3652.0
         }
       },
       "VirtualRide": {
@@ -18906,6 +18936,24 @@
           "distance": 3544.3,
           "elevation_gain": 22.0,
           "moving_time": 2879.0
+        },
+        "2026-08-08": {
+          "activity_ids": [
+            "19658787510"
+          ],
+          "count": 1,
+          "distance": 2661.6,
+          "elevation_gain": 41.0,
+          "moving_time": 2217.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19668003627"
+          ],
+          "count": 1,
+          "distance": 3106.3,
+          "elevation_gain": 52.0,
+          "moving_time": 2489.0
         }
       },
       "WeightTraining": {
@@ -19049,7 +19097,7 @@
       }
     }
   },
-  "generated_at": "2026-08-08T15:18:02.362864+00:00",
+  "generated_at": "2026-08-09T15:19:52.386128+00:00",
   "other_bucket": "OtherSports",
   "repo": "TezcanGonullu/git-sweaty",
   "source": "strava",
