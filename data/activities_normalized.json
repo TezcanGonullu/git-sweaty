@@ -16456,5 +16456,18 @@
     "start_date_local": "2026-10-13T07:13:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 23355.2,
+    "elevation_gain": 61.0,
+    "id": "20577112164",
+    "moving_time": 2849.0,
+    "name": "TrainingPeaks Virtual - Workout: Endurance Ride (45 mins)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-14T07:16:19Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
