@@ -16495,5 +16495,31 @@
     "start_date_local": "2026-10-17T09:00:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 1932.7,
+    "elevation_gain": 8.0,
+    "id": "20629693687",
+    "moving_time": 641.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-18T08:42:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 10455.8,
+    "elevation_gain": 35.0,
+    "id": "20630018735",
+    "moving_time": 2755.0,
+    "name": "Bosphorun 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-18T09:16:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

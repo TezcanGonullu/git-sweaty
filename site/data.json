@@ -8882,6 +8882,20 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 8,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 9,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19140,6 +19154,16 @@
           "distance": 6219.6,
           "elevation_gain": 87.0,
           "moving_time": 2151.0
+        },
+        "2026-10-18": {
+          "activity_ids": [
+            "20629693687",
+            "20630018735"
+          ],
+          "count": 2,
+          "distance": 12388.5,
+          "elevation_gain": 43.0,
+          "moving_time": 3396.0
         }
       },
       "Swim": {
@@ -19993,7 +20017,7 @@
       }
     }
   },
-  "generated_at": "2026-10-17T17:35:25.687460+00:00",
+  "generated_at": "2026-10-18T17:38:19.089084+00:00",
   "other_bucket": "OtherSports",
   "repo": "TezcanGonullu/git-sweaty",
   "source": "strava",
