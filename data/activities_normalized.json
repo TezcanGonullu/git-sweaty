@@ -16573,5 +16573,31 @@
     "start_date_local": "2026-10-24T12:05:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 1287.0,
+    "elevation_gain": 4.0,
+    "id": "20720586983",
+    "moving_time": 497.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T08:27:14Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 10055.2,
+    "elevation_gain": 56.0,
+    "id": "20720859212",
+    "moving_time": 2679.0,
+    "name": "Cumhuriyet Ko\u015fusu",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T09:02:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
